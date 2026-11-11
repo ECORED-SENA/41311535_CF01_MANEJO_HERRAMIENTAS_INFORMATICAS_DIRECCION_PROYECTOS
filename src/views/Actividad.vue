@@ -22,7 +22,7 @@ export default {
       tema: 'Entradas y configuración de proyectos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> afianzar la identificación de las entradas del proyecto, la selección del marco de referencia y del software de gestión, así como el reconocimiento del entorno y de los parámetros necesarios para configurar correctamente una herramienta informática.',
+        '<b>Objetivo:</b> afianzar la identificación de las entradas del proyecto, la selección del marco de referencia y del <i>software</i> de gestión, así como el reconocimiento del entorno y de los parámetros necesarios para configurar correctamente una herramienta informática.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -205,7 +205,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Matriz de software.',
+              texto: 'Matriz de <i>software</i>.',
               esCorrecta: false,
             },
           ],
@@ -337,7 +337,8 @@ export default {
         },
         {
           id: 11,
-          texto: '¿Cuál es una finalidad del software de gestión de proyectos?',
+          texto:
+            '¿Cuál es una finalidad del <i>software</i> de gestión de proyectos?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [

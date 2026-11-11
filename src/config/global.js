@@ -108,7 +108,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Finalidad y funciones del software de gestión',
+            titulo: 'Finalidad y funciones del <i>software</i> de gestión',
             hash: 't_3_1',
           },
           {
@@ -257,7 +257,7 @@ export default {
         'Necesidad documentada sobre el contenido, la forma o la funcionalidad de un producto o servicio, considerando las especificidades de los clientes. Los requerimientos identifican los atributos, características, capacidades y cualidades que debe cumplir un entregable para que tenga valor y utilidad.',
     },
     {
-      termino: 'Software de gestión de proyectos',
+      termino: '<i>Software</i> de gestión de proyectos',
       significado:
         'También conocido como programa para la administración de proyectos, es una herramienta informática multiusuario y colaborativa diseñada para planificar, organizar, asignar recursos, comunicar, visualizar, modificar y monitorear el desarrollo de las tareas y objetivos de un proyecto. Desde el seguimiento del progreso hasta la gestión de equipos, estos programas abarcan todas las fases del ciclo de vida de un proyecto.',
     },

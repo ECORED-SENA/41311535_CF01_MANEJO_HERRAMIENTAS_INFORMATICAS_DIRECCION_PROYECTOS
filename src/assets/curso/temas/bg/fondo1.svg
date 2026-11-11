@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1329.907" height="298.207" viewBox="0 0 1329.907 298.207">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1329.907" height="360.79" viewBox="0 0 1329.907 360.79">
   <defs>
     <linearGradient id="linear-gradient" x1="0.459" y1="0.874" x2="0.46" y2="0.417" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#ddd2f9"/>
       <stop offset="1" stop-color="#e6ddfc" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="clip-path">
-      <rect id="Rectangle_411661" data-name="Rectangle 411661" width="1329.907" height="298.207" transform="translate(0 33)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_411643" data-name="Rectangle 411643" width="1329.907" height="360.79" transform="translate(0 96)" fill="url(#linear-gradient)"/>
     </clipPath>
   </defs>
-  <g id="Mask_Group_1099338" data-name="Mask Group 1099338" transform="translate(0 -33)" clip-path="url(#clip-path)">
-    <path id="Path_1362510" data-name="Path 1362510" d="M0,422.965s56-21.02,128.1-29.39c73.342-8.37,146.333-15.808,213.842-13.788,68.755,1.138,175.78,8.964,244.984,19.676S840.213,435.6,896.961,442.591c56.748,6.106,110.586,11.935,219.064,8.635s196.3-12.237,214.848-21.833V27.06s-81.627-15.951-135.641-21.589c-52.769-5.637-202.922-7.4-331.49,8.832-105.8,13.484-258.3,39.906-352.467,49.844-13.669,1.443-251.265,8.073-315.357,1.675C133.072,59.422,25.544,40.859,4.845,33.879,4.845,44.066,0,422.965,0,422.965Z" transform="translate(-0.384 -121.275)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  <g id="Mask_Group_1099336" data-name="Mask Group 1099336" transform="translate(0 -96)" clip-path="url(#clip-path)">
+    <path id="Path_1362499" data-name="Path 1362499" d="M0,600.471S56,570.6,128.1,558.7C201.44,546.81,274.431,536.24,341.94,539.11c68.755,1.617,175.78,12.739,244.984,27.961s253.289,51.359,310.037,61.29c56.748,8.677,110.586,16.961,219.064,12.272s196.3-17.39,214.848-31.028V37.838s-81.627-22.669-135.641-30.68C1142.464-.853,992.311-3.353,863.743,19.709c-105.8,19.163-258.3,56.712-352.467,70.834-13.669,2.05-251.265,11.473-315.357,2.38C133.072,83.829,25.544,57.449,4.845,47.53,4.845,62.006,0,600.471,0,600.471Z" transform="translate(-0.384 -185.627)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
   </g>
 </svg>
