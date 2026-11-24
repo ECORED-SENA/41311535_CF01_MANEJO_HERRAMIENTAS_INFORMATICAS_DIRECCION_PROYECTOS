@@ -23,7 +23,7 @@
       .row
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 5.1 Creación y datos iniciales del proyecto
-      p(data-aos="fade-left") La creación del proyecto en la herramienta constituye el punto de partida para registrar la información. Antes de iniciarla se debe comprobar que las entradas hayan sido validadas y que exista autorización para crear el espacio de trabajo. Los datos iniciales permiten identificar el proyecto y establecer las condiciones básicas de programación, y cada uno debe verificarse contra una fuente autorizada, como se muestra en la siguiente tabla:
+      p(data-aos="fade-left") La creación del proyecto en la herramienta constituye el punto de partida para registrar la información. Antes de iniciarla, se debe comprobar que las entradas hayan sido validadas y que exista autorización para crear el espacio de trabajo. Los datos iniciales permiten identificar el proyecto y establecer las condiciones básicas de programación, y cada uno debe verificarse contra una fuente autorizada, como se muestra en la siguiente tabla:
       .row.bg-fondo-3(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5       
@@ -86,9 +86,9 @@
               .row(titulo="Responsable y patrocinador")
                 p.mb-4 El responsable dirige la planificación y coordina la actualización de la información, por lo que suele requerir permisos de edición. El patrocinador autoriza decisiones y facilita los recursos, y puede contar con acceso de consulta y aprobación.
               .row(titulo="Fecha de inicio")
-                p.mb-4 Determina el momento desde el cual se programará el trabajo y debe coincidir con la autorización formal o con la fecha acordada. Antes de registrarla se verifican la aprobación del proyecto, la disponibilidad de recursos, las condiciones contractuales, las dependencias externas y los festivos o periodos institucionales; de lo contrario, el cronograma resultante puede no ser viable.
+                p.mb-4 Determina el momento desde el cual se programará el trabajo y debe coincidir con la autorización formal o con la fecha acordada. Antes de registrarla, se verifican la aprobación del proyecto, la disponibilidad de recursos, las condiciones contractuales, las dependencias externas y los festivos o periodos institucionales; de lo contrario, el cronograma resultante puede no ser viable.
               .row(titulo="Plantillas")
-                p.mb-4 Contienen calendarios, campos, tablas, vistas y estructuras reutilizables que estandarizan la información y reducen el tiempo de configuración. Antes de aplicarlas se comprueba que sus parámetros correspondan al proyecto y que sus calendarios, recursos y costos estén vigentes.
+                p.mb-4 Contienen calendarios, campos, tablas, vistas y estructuras reutilizables que estandarizan la información y reducen el tiempo de configuración. Antes de aplicarlas, se comprueba que sus parámetros correspondan al proyecto y que sus calendarios, recursos y costos estén vigentes.
       //- Fin Accordion 
       p(data-aos="fade-left") Algunas herramientas permiten, además, definir el <b>método de programación</b> del proyecto:
       //- Pestanas horizontales
@@ -424,7 +424,7 @@
               .row(titulo="Datos iniciales")
                 p.mb-4 Se comprueba que el nombre, el código, la descripción, el responsable, el patrocinador, la fecha de inicio, el método de programación, la ubicación del archivo, la versión y los permisos coincidan con los documentos autorizados.
               .row(titulo="Parámetros")
-                p.mb-4 Se revisan el idioma, el formato regional, la moneda, los decimales, las unidades de duración y de trabajo, las horas por día y por semana, los días por mes, el formato de fecha y, cuando corresponda, la zona horaria. Para verificar las unidades se crea una actividad de prueba: con ocho horas por día, ocho horas deben equivaler a un día, cuarenta horas a cinco días y ochenta horas a diez días.
+                p.mb-4 Se revisan el idioma, el formato regional, la moneda, los decimales, las unidades de duración y de trabajo, las horas por día y por semana, los días por mes, el formato de fecha y, cuando corresponda, la zona horaria. Para verificar las unidades, se crea una actividad de prueba: con ocho horas por día, ocho horas deben equivaler a un día, cuarenta horas a cinco días y ochenta horas a diez días.
               .row(titulo="Calendario")
                 p.mb-4 Se programan actividades de prueba que atraviesen un fin de semana, coincidan con un festivo, estén asignadas a un recurso con jornada parcial o tengan un calendario especial o una fecha límite, y se comparan los resultados con las condiciones reales.
       //- Fin Accordion

@@ -118,7 +118,7 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Primavera, Sinnaps y otras herramientas',
+            titulo: 'Primavera, <i>Sinnaps</i> y otras herramientas',
             hash: 't_3_3',
           },
           {

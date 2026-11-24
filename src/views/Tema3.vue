@@ -148,7 +148,7 @@
       //- Inicio Tema3.3
       .row
         #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 3.3 Primavera, Sinnaps y otras herramientas
+          h2 3.3 Primavera, <i>Sinnaps</i> y otras herramientas
       p(data-aos="fade-left") Además de Microsoft Project, existen diversas soluciones para la gestión de proyectos. Cada una responde a necesidades particulares y ofrece niveles diferentes de especialización, colaboración y complejidad, como se presenta a continuación:
       //- Pestanas horizontales
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5(data-aos="fade-right")
@@ -161,7 +161,7 @@
                 .col-md-6.mb-4.mb-md-0
                   figure
                     img(src='@/assets/curso/temas/t3/tarjeta02_1.png')
-            .py-3.py-md-4(titulo="Sinnaps")
+            .py-3.py-md-4(titulo="<i>Sinnaps</i>")
               .row.align-items-center
                 .col-md-6
                   h4 Sinnaps
@@ -285,7 +285,7 @@
               .row(titulo="<i>Hardware</i>")
                 p.mb-4 Componentes físicos necesarios para ejecutar la aplicación: capacidad del procesador, memoria, espacio de almacenamiento, resolución de pantalla, servidores, dispositivos móviles, infraestructura de red y sistemas de energía protegida. La capacidad requerida depende del tamaño de la aplicación, el volumen de información y la cantidad de usuarios.
               .row(titulo="<i>Software</i>")
-                p.mb-4 Sistema operativo compatible, navegador, motor de base de datos, complementos, servicios de autenticación, controladores y actualizaciones. Antes de instalar la herramienta se debe comprobar que no presente conflictos con las aplicaciones existentes.
+                p.mb-4 Sistema operativo compatible, navegador, motor de base de datos, complementos, servicios de autenticación, controladores y actualizaciones. Antes de instalar la herramienta, se debe comprobar que no presente conflictos con las aplicaciones existentes.
               .row(titulo="Conectividad")
                 p.mb-4 Velocidad, estabilidad, cantidad de usuarios simultáneos, acceso desde redes externas, restricciones institucionales y alternativas en caso de interrupción. Una herramienta que depende completamente de internet puede afectar el trabajo cuando la conexión es limitada.
           .col-lg-4.mb-5.mb-lg-0
@@ -360,7 +360,7 @@
                   .row.align-items-center
                     .col-12.col-lg
                       h4 Paso 3. Valorar las alternativas
-                      p Calificar cada herramienta con una escala de 1 a 5, en la que 1 significa que no cumple; 2, cumplimiento bajo; 3, cumplimiento parcial; 4, cumplimiento adecuado, y 5, cumplimiento alto.
+                      p Calificar cada herramienta con una escala de 1 a 5, en la que 1 significa que no cumple; 2, cumplimiento bajo; 3, cumplimiento parcial; 4, cumplimiento adecuado; y 5, cumplimiento alto.
                     .col-12.col-lg-auto.mt-3.mt-lg-0
                       figure
                         img(src='@/assets/curso/temas/t3/tarjeta04_3.png').img125

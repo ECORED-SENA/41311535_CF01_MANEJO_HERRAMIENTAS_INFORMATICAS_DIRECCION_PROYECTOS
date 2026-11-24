@@ -433,7 +433,7 @@
                   img(src='@/assets/curso/temas/t4/tarjeta04_2.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Apertura
-                p Antes de abrir un archivo se confirma que corresponde al proyecto, la ubicación y la versión correctos, se revisan su estado de aprobación, su formato y los permisos, y se verifica que no exista otra versión activa.
+                p Antes de abrir un archivo, se confirma que corresponde al proyecto, la ubicación y la versión correctos, se revisan su estado de aprobación, su formato y los permisos, y se verifica que no exista otra versión activa.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -447,7 +447,7 @@
                   img(src='@/assets/curso/temas/t4/tarjeta04_4.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Importación y exportación
-                p Antes de importar datos se revisan su estructura, los encabezados, los formatos de fecha, las unidades, los valores vacíos y los duplicados; después, se verifica que las actividades, fechas, responsables y costos se hayan ubicado correctamente. Al exportar puede perderse información que depende de funciones exclusivas de la herramienta, como las relaciones entre actividades o las reglas de programación.
+                p Antes de importar datos, se revisan su estructura, los encabezados, los formatos de fecha, las unidades, los valores vacíos y los duplicados; después, se verifica que las actividades, fechas, responsables y costos se hayan ubicado correctamente. Al exportar puede perderse información que depende de funciones exclusivas de la herramienta, como las relaciones entre actividades o las reglas de programación.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -456,7 +456,7 @@
                 h4 Control de versiones
                 p Permite identificar los cambios realizados y conservar un historial confiable. Cada versión se clasifica según su estado (borrador, en revisión, aprobada, vigente, reemplazada o archivada), y cada cambio relevante registra el número de versión, la fecha, el responsable, la descripción, el motivo y la aprobación.
       //- Fin Slideshow
-      p(data-aos="fade-left") Cuando varias personas trabajan sobre copias independientes pueden generarse inconsistencias. Por ello, conviene definir un <b>repositorio oficial</b> o utilizar una plataforma con control de versiones, restringir los permisos de modificación y no reemplazar nunca una versión aprobada.
+      p(data-aos="fade-left") Cuando varias personas trabajan sobre copias independientes, pueden generarse inconsistencias. Por ello, conviene definir un <b>repositorio oficial</b> o utilizar una plataforma con control de versiones, restringir los permisos de modificación y no reemplazar nunca una versión aprobada.
       p.mb-5(data-aos="fade-left") A continuación, se presenta un ejemplo del proceso de almacenamiento de un archivo de proyecto, en el que se define su nombre, formato y ubicación.
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-md-auto.col-lg-10
